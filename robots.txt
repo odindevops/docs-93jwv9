@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-dab6g0.pulaucuan.org/sitemap.xml
